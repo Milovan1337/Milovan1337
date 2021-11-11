@@ -1,0 +1,5 @@
+- 👋 Ćaos, Ja sam Milovan 
+- 👀 Interesujem se za fivem Skriptanje
+- 🌱 Trenutno učim Python Html Css i Lua
+- 💞️ Prva moja skripta je objavljena na mom Profilu
+- 📫 Uživajte mi 
